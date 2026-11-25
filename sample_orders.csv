@@ -1,0 +1,501 @@
+order_id,order_date,city,category,channel,quantity,unit_price,revenue,status
+1,2025-08-17,Tanta,Clothing,Social Media,4,2600,10400,returned
+2,2025-02-15,Alexandria,Clothing,Organic Search,4,450,1800,completed
+3,2025-08-21,Tanta,Clothing,Organic Search,1,1900,1900,returned
+4,2025-01-07,Giza,Electronics,Referral,1,250,250,completed
+5,2025-09-08,Alexandria,Home,Organic Search,5,650,3250,completed
+6,2025-07-18,Cairo,Accessories,Paid Ads,4,850,3400,completed
+7,2025-01-03,Tanta,Electronics,Referral,5,850,4250,completed
+8,2025-02-01,Cairo,Clothing,Social Media,3,1900,5700,cancelled
+9,2025-07-23,Mansoura,Home,Organic Search,1,2600,2600,completed
+10,2025-06-03,Alexandria,Accessories,Organic Search,2,850,1700,cancelled
+11,2025-04-23,Cairo,Electronics,Organic Search,1,450,450,completed
+12,2025-11-18,Giza,Home,Social Media,4,450,1800,cancelled
+13,2025-11-13,Cairo,Home,Referral,2,1900,3800,cancelled
+14,2025-10-10,Cairo,Clothing,Social Media,1,850,850,completed
+15,2025-01-05,Giza,Home,Paid Ads,5,350,1750,completed
+16,2025-05-13,Cairo,Electronics,Organic Search,5,1200,6000,completed
+17,2025-10-12,Alexandria,Home,Social Media,2,250,500,cancelled
+18,2025-07-06,Giza,Accessories,Social Media,4,450,1800,returned
+19,2025-03-24,Tanta,Clothing,Referral,2,650,1300,returned
+20,2025-07-02,Cairo,Electronics,Organic Search,5,350,1750,completed
+21,2025-12-23,Mansoura,Accessories,Referral,3,650,1950,returned
+22,2025-05-17,Giza,Electronics,Social Media,5,2600,13000,completed
+23,2025-05-07,Giza,Electronics,Organic Search,5,350,1750,completed
+24,2025-01-02,Giza,Accessories,Paid Ads,4,650,2600,completed
+25,2025-06-05,Mansoura,Accessories,Social Media,2,350,700,completed
+26,2025-06-23,Alexandria,Electronics,Organic Search,1,2600,2600,completed
+27,2025-02-24,Alexandria,Accessories,Social Media,1,2600,2600,cancelled
+28,2025-09-12,Cairo,Clothing,Paid Ads,1,2600,2600,completed
+29,2025-07-26,Cairo,Home,Organic Search,4,350,1400,completed
+30,2025-10-01,Tanta,Electronics,Organic Search,4,1900,7600,completed
+31,2025-07-24,Alexandria,Home,Referral,1,850,850,completed
+32,2025-09-25,Tanta,Electronics,Paid Ads,5,350,1750,completed
+33,2025-04-23,Cairo,Home,Referral,4,250,1000,completed
+34,2025-05-05,Tanta,Clothing,Social Media,1,1200,1200,completed
+35,2025-08-08,Alexandria,Home,Paid Ads,3,2600,7800,completed
+36,2025-04-13,Giza,Accessories,Social Media,4,650,2600,completed
+37,2025-01-23,Cairo,Accessories,Social Media,4,1200,4800,completed
+38,2025-04-27,Mansoura,Home,Referral,4,850,3400,completed
+39,2025-06-03,Cairo,Accessories,Organic Search,5,2600,13000,completed
+40,2025-05-21,Tanta,Electronics,Social Media,3,1200,3600,completed
+41,2025-05-08,Giza,Electronics,Organic Search,2,250,500,completed
+42,2025-02-22,Giza,Clothing,Referral,5,1200,6000,completed
+43,2025-09-23,Cairo,Clothing,Social Media,1,2600,2600,completed
+44,2025-07-28,Giza,Electronics,Referral,3,450,1350,cancelled
+45,2025-08-15,Giza,Electronics,Referral,4,450,1800,completed
+46,2025-08-11,Giza,Electronics,Organic Search,5,1200,6000,completed
+47,2025-05-18,Alexandria,Accessories,Organic Search,4,350,1400,completed
+48,2025-08-11,Tanta,Home,Paid Ads,1,250,250,completed
+49,2025-02-14,Cairo,Clothing,Paid Ads,1,650,650,completed
+50,2025-03-17,Tanta,Home,Referral,2,2600,5200,completed
+51,2025-08-17,Tanta,Accessories,Social Media,1,650,650,completed
+52,2025-05-22,Mansoura,Clothing,Paid Ads,5,850,4250,returned
+53,2025-10-16,Giza,Home,Organic Search,5,850,4250,completed
+54,2025-01-18,Cairo,Home,Organic Search,5,1900,9500,completed
+55,2025-09-15,Mansoura,Home,Paid Ads,2,350,700,completed
+56,2025-06-14,Mansoura,Accessories,Organic Search,4,450,1800,completed
+57,2025-05-05,Cairo,Electronics,Social Media,5,250,1250,completed
+58,2025-06-24,Alexandria,Clothing,Referral,1,850,850,completed
+59,2025-09-20,Alexandria,Clothing,Referral,5,350,1750,completed
+60,2025-09-07,Tanta,Clothing,Social Media,4,450,1800,returned
+61,2025-04-24,Alexandria,Clothing,Paid Ads,5,450,2250,completed
+62,2025-04-04,Giza,Clothing,Social Media,2,650,1300,completed
+63,2025-02-14,Mansoura,Clothing,Social Media,3,1900,5700,completed
+64,2025-04-19,Alexandria,Accessories,Organic Search,1,350,350,completed
+65,2025-02-16,Cairo,Electronics,Organic Search,3,650,1950,completed
+66,2025-03-07,Giza,Electronics,Social Media,5,2600,13000,completed
+67,2025-11-04,Tanta,Electronics,Social Media,2,850,1700,cancelled
+68,2025-02-11,Mansoura,Home,Referral,4,350,1400,completed
+69,2025-10-12,Cairo,Electronics,Social Media,4,650,2600,completed
+70,2025-12-12,Mansoura,Clothing,Social Media,4,1200,4800,completed
+71,2025-02-26,Mansoura,Clothing,Paid Ads,1,1200,1200,returned
+72,2025-02-24,Giza,Home,Social Media,3,850,2550,returned
+73,2025-07-25,Giza,Home,Social Media,5,1200,6000,completed
+74,2025-05-16,Cairo,Electronics,Paid Ads,1,1200,1200,cancelled
+75,2025-04-09,Alexandria,Accessories,Social Media,5,250,1250,completed
+76,2025-09-03,Mansoura,Home,Social Media,5,450,2250,completed
+77,2025-02-20,Cairo,Clothing,Paid Ads,4,250,1000,completed
+78,2025-04-21,Mansoura,Electronics,Organic Search,5,250,1250,completed
+79,2025-09-18,Tanta,Home,Organic Search,3,1200,3600,completed
+80,2025-07-06,Mansoura,Home,Social Media,1,250,250,returned
+81,2025-07-16,Mansoura,Accessories,Referral,5,250,1250,completed
+82,2025-08-21,Alexandria,Accessories,Paid Ads,3,850,2550,completed
+83,2025-11-06,Mansoura,Home,Organic Search,2,250,500,returned
+84,2025-10-24,Alexandria,Electronics,Social Media,4,250,1000,completed
+85,2025-04-02,Tanta,Electronics,Referral,4,850,3400,completed
+86,2025-01-20,Mansoura,Home,Organic Search,2,350,700,completed
+87,2025-09-05,Cairo,Accessories,Referral,1,1200,1200,completed
+88,2025-10-09,Tanta,Home,Paid Ads,4,2600,10400,completed
+89,2025-05-24,Giza,Clothing,Referral,5,450,2250,completed
+90,2025-05-09,Tanta,Clothing,Paid Ads,3,1200,3600,completed
+91,2025-09-21,Giza,Electronics,Organic Search,2,650,1300,completed
+92,2025-01-20,Cairo,Electronics,Social Media,3,1900,5700,completed
+93,2025-11-06,Tanta,Clothing,Paid Ads,1,350,350,completed
+94,2025-06-11,Mansoura,Clothing,Organic Search,3,650,1950,returned
+95,2025-08-14,Alexandria,Home,Social Media,4,650,2600,completed
+96,2025-05-18,Giza,Home,Paid Ads,5,1200,6000,completed
+97,2025-02-18,Cairo,Home,Referral,4,1200,4800,returned
+98,2025-01-03,Alexandria,Clothing,Organic Search,4,850,3400,completed
+99,2025-05-05,Giza,Accessories,Paid Ads,4,1200,4800,completed
+100,2025-12-15,Tanta,Accessories,Referral,1,1200,1200,completed
+101,2025-06-08,Mansoura,Clothing,Organic Search,3,2600,7800,completed
+102,2025-06-22,Mansoura,Home,Social Media,3,250,750,completed
+103,2025-09-05,Tanta,Clothing,Social Media,3,1900,5700,completed
+104,2025-01-08,Tanta,Electronics,Social Media,4,850,3400,completed
+105,2025-02-19,Tanta,Accessories,Organic Search,1,1900,1900,completed
+106,2025-06-03,Cairo,Clothing,Organic Search,3,350,1050,completed
+107,2025-12-08,Mansoura,Accessories,Referral,4,650,2600,completed
+108,2025-11-05,Mansoura,Home,Organic Search,3,1200,3600,completed
+109,2025-11-12,Cairo,Home,Organic Search,1,1900,1900,returned
+110,2025-09-12,Cairo,Electronics,Referral,5,250,1250,cancelled
+111,2025-12-06,Mansoura,Clothing,Paid Ads,2,650,1300,completed
+112,2025-05-02,Mansoura,Accessories,Organic Search,4,850,3400,completed
+113,2025-01-25,Mansoura,Electronics,Referral,2,450,900,cancelled
+114,2025-02-07,Giza,Accessories,Social Media,1,1200,1200,completed
+115,2025-10-17,Giza,Home,Social Media,5,2600,13000,returned
+116,2025-05-21,Tanta,Home,Paid Ads,4,450,1800,completed
+117,2025-11-18,Cairo,Home,Social Media,4,1200,4800,completed
+118,2025-07-17,Tanta,Accessories,Organic Search,2,450,900,completed
+119,2025-08-12,Mansoura,Clothing,Referral,2,250,500,completed
+120,2025-03-25,Alexandria,Clothing,Paid Ads,2,1900,3800,cancelled
+121,2025-11-24,Tanta,Accessories,Organic Search,5,450,2250,completed
+122,2025-04-27,Giza,Clothing,Organic Search,2,250,500,completed
+123,2025-08-23,Mansoura,Electronics,Paid Ads,5,350,1750,completed
+124,2025-04-22,Cairo,Home,Social Media,2,1900,3800,completed
+125,2025-03-27,Alexandria,Accessories,Paid Ads,4,2600,10400,completed
+126,2025-08-22,Cairo,Accessories,Organic Search,5,850,4250,completed
+127,2025-11-15,Cairo,Home,Organic Search,1,1900,1900,returned
+128,2025-05-19,Cairo,Home,Organic Search,4,650,2600,returned
+129,2025-05-21,Mansoura,Accessories,Paid Ads,2,450,900,completed
+130,2025-05-07,Giza,Home,Organic Search,5,350,1750,completed
+131,2025-12-21,Alexandria,Home,Referral,3,2600,7800,completed
+132,2025-03-22,Giza,Clothing,Social Media,2,350,700,completed
+133,2025-02-08,Cairo,Clothing,Organic Search,4,350,1400,completed
+134,2025-07-17,Giza,Clothing,Social Media,1,1200,1200,returned
+135,2025-06-14,Tanta,Electronics,Referral,4,2600,10400,completed
+136,2025-11-20,Tanta,Electronics,Paid Ads,3,650,1950,completed
+137,2025-11-15,Cairo,Home,Social Media,3,850,2550,completed
+138,2025-10-23,Giza,Accessories,Paid Ads,3,350,1050,completed
+139,2025-10-23,Giza,Clothing,Organic Search,3,450,1350,completed
+140,2025-03-08,Mansoura,Home,Paid Ads,2,350,700,completed
+141,2025-08-04,Mansoura,Clothing,Social Media,3,850,2550,cancelled
+142,2025-09-09,Giza,Accessories,Social Media,5,350,1750,completed
+143,2025-11-12,Giza,Accessories,Social Media,1,850,850,completed
+144,2025-08-02,Mansoura,Clothing,Social Media,5,350,1750,completed
+145,2025-03-07,Mansoura,Home,Organic Search,4,250,1000,completed
+146,2025-10-13,Giza,Accessories,Social Media,4,350,1400,completed
+147,2025-01-21,Cairo,Clothing,Referral,5,1200,6000,cancelled
+148,2025-08-12,Mansoura,Home,Paid Ads,5,350,1750,completed
+149,2025-07-04,Tanta,Electronics,Paid Ads,4,1900,7600,completed
+150,2025-01-11,Cairo,Accessories,Referral,4,1900,7600,completed
+151,2025-05-19,Cairo,Clothing,Organic Search,5,1200,6000,returned
+152,2025-01-16,Cairo,Clothing,Paid Ads,2,1900,3800,completed
+153,2025-12-28,Alexandria,Home,Social Media,2,350,700,completed
+154,2025-02-04,Tanta,Clothing,Organic Search,4,350,1400,returned
+155,2025-01-10,Giza,Accessories,Organic Search,5,2600,13000,completed
+156,2025-08-27,Tanta,Home,Social Media,1,2600,2600,completed
+157,2025-01-10,Cairo,Home,Paid Ads,5,650,3250,completed
+158,2025-08-07,Giza,Accessories,Organic Search,4,450,1800,completed
+159,2025-01-06,Tanta,Clothing,Social Media,3,2600,7800,completed
+160,2025-05-24,Alexandria,Accessories,Referral,1,350,350,completed
+161,2025-12-25,Mansoura,Home,Organic Search,2,1200,2400,completed
+162,2025-12-23,Giza,Accessories,Social Media,3,350,1050,completed
+163,2025-05-12,Tanta,Electronics,Social Media,5,850,4250,cancelled
+164,2025-05-05,Cairo,Home,Organic Search,2,650,1300,completed
+165,2025-09-02,Cairo,Accessories,Paid Ads,5,350,1750,completed
+166,2025-03-10,Giza,Clothing,Social Media,5,350,1750,completed
+167,2025-03-26,Giza,Electronics,Referral,5,250,1250,cancelled
+168,2025-01-16,Cairo,Clothing,Organic Search,5,1900,9500,completed
+169,2025-11-16,Cairo,Accessories,Social Media,3,1200,3600,completed
+170,2025-10-14,Giza,Home,Paid Ads,2,350,700,completed
+171,2025-08-18,Giza,Home,Paid Ads,2,850,1700,completed
+172,2025-10-15,Giza,Accessories,Social Media,5,250,1250,completed
+173,2025-07-17,Mansoura,Accessories,Organic Search,5,2600,13000,completed
+174,2025-10-05,Cairo,Accessories,Referral,2,650,1300,completed
+175,2025-10-16,Cairo,Clothing,Referral,3,850,2550,completed
+176,2025-12-22,Tanta,Home,Organic Search,2,2600,5200,completed
+177,2025-12-07,Cairo,Clothing,Referral,4,1200,4800,completed
+178,2025-03-24,Mansoura,Electronics,Organic Search,5,450,2250,completed
+179,2025-02-13,Tanta,Accessories,Referral,5,450,2250,completed
+180,2025-11-23,Tanta,Clothing,Paid Ads,1,250,250,completed
+181,2025-07-15,Cairo,Clothing,Paid Ads,5,650,3250,completed
+182,2025-01-06,Mansoura,Electronics,Paid Ads,5,650,3250,completed
+183,2025-08-28,Mansoura,Clothing,Referral,5,450,2250,completed
+184,2025-07-12,Giza,Clothing,Social Media,1,650,650,completed
+185,2025-10-15,Alexandria,Home,Referral,4,650,2600,completed
+186,2025-04-18,Mansoura,Home,Organic Search,2,2600,5200,completed
+187,2025-05-20,Cairo,Clothing,Paid Ads,3,1200,3600,completed
+188,2025-05-04,Alexandria,Electronics,Social Media,5,650,3250,completed
+189,2025-04-24,Cairo,Electronics,Paid Ads,3,450,1350,returned
+190,2025-07-11,Alexandria,Electronics,Paid Ads,4,350,1400,completed
+191,2025-01-07,Giza,Clothing,Organic Search,2,2600,5200,completed
+192,2025-08-18,Giza,Accessories,Paid Ads,4,1900,7600,completed
+193,2025-04-27,Alexandria,Home,Referral,4,450,1800,completed
+194,2025-04-04,Alexandria,Accessories,Paid Ads,5,1200,6000,completed
+195,2025-01-24,Mansoura,Electronics,Paid Ads,2,250,500,completed
+196,2025-09-23,Alexandria,Electronics,Paid Ads,1,650,650,completed
+197,2025-07-04,Mansoura,Home,Organic Search,3,350,1050,completed
+198,2025-08-23,Alexandria,Clothing,Social Media,3,850,2550,cancelled
+199,2025-03-12,Giza,Electronics,Paid Ads,2,2600,5200,cancelled
+200,2025-10-09,Tanta,Accessories,Organic Search,2,2600,5200,cancelled
+201,2025-02-13,Alexandria,Electronics,Referral,1,1200,1200,completed
+202,2025-08-24,Alexandria,Accessories,Organic Search,5,850,4250,completed
+203,2025-06-19,Alexandria,Accessories,Social Media,3,1200,3600,completed
+204,2025-06-01,Tanta,Clothing,Organic Search,4,1200,4800,completed
+205,2025-10-14,Cairo,Accessories,Organic Search,5,1900,9500,returned
+206,2025-07-02,Giza,Accessories,Paid Ads,4,1900,7600,completed
+207,2025-03-20,Giza,Accessories,Social Media,4,250,1000,completed
+208,2025-09-01,Tanta,Home,Organic Search,2,650,1300,completed
+209,2025-10-27,Tanta,Accessories,Paid Ads,4,350,1400,completed
+210,2025-12-07,Mansoura,Clothing,Social Media,1,1200,1200,returned
+211,2025-10-23,Mansoura,Accessories,Paid Ads,2,1200,2400,completed
+212,2025-04-21,Giza,Accessories,Paid Ads,3,2600,7800,completed
+213,2025-02-03,Cairo,Accessories,Organic Search,5,450,2250,returned
+214,2025-01-06,Tanta,Home,Referral,5,2600,13000,completed
+215,2025-09-24,Mansoura,Accessories,Paid Ads,3,1900,5700,completed
+216,2025-06-28,Giza,Clothing,Referral,3,450,1350,completed
+217,2025-03-05,Giza,Home,Paid Ads,2,850,1700,completed
+218,2025-08-19,Giza,Accessories,Paid Ads,2,250,500,completed
+219,2025-11-05,Cairo,Clothing,Organic Search,4,1900,7600,returned
+220,2025-06-24,Tanta,Electronics,Referral,2,850,1700,completed
+221,2025-03-12,Cairo,Accessories,Referral,1,2600,2600,returned
+222,2025-07-24,Tanta,Home,Social Media,3,650,1950,cancelled
+223,2025-09-10,Giza,Home,Social Media,4,650,2600,returned
+224,2025-08-14,Cairo,Clothing,Paid Ads,5,850,4250,returned
+225,2025-05-21,Mansoura,Accessories,Paid Ads,3,450,1350,completed
+226,2025-06-18,Alexandria,Electronics,Social Media,4,650,2600,completed
+227,2025-01-06,Alexandria,Home,Social Media,3,350,1050,cancelled
+228,2025-08-02,Mansoura,Accessories,Referral,2,1900,3800,completed
+229,2025-05-07,Alexandria,Clothing,Referral,2,850,1700,completed
+230,2025-01-06,Tanta,Electronics,Organic Search,1,450,450,completed
+231,2025-02-17,Mansoura,Electronics,Social Media,1,850,850,completed
+232,2025-09-09,Giza,Home,Referral,3,250,750,completed
+233,2025-08-13,Mansoura,Accessories,Organic Search,5,350,1750,completed
+234,2025-06-13,Alexandria,Accessories,Paid Ads,2,650,1300,completed
+235,2025-05-09,Cairo,Accessories,Organic Search,4,1200,4800,completed
+236,2025-04-02,Giza,Accessories,Social Media,2,450,900,completed
+237,2025-03-12,Alexandria,Clothing,Referral,1,450,450,completed
+238,2025-07-04,Alexandria,Clothing,Organic Search,4,250,1000,returned
+239,2025-10-04,Tanta,Accessories,Referral,3,350,1050,completed
+240,2025-07-25,Giza,Accessories,Organic Search,2,2600,5200,completed
+241,2025-06-17,Cairo,Clothing,Referral,3,450,1350,cancelled
+242,2025-10-20,Alexandria,Home,Referral,1,650,650,completed
+243,2025-02-27,Mansoura,Home,Referral,5,350,1750,completed
+244,2025-07-20,Tanta,Electronics,Organic Search,4,650,2600,completed
+245,2025-05-19,Cairo,Electronics,Paid Ads,4,2600,10400,completed
+246,2025-05-24,Tanta,Accessories,Social Media,4,1200,4800,completed
+247,2025-01-28,Giza,Home,Organic Search,5,1900,9500,completed
+248,2025-02-17,Alexandria,Accessories,Organic Search,2,350,700,completed
+249,2025-05-17,Alexandria,Home,Social Media,1,1200,1200,completed
+250,2025-08-09,Giza,Electronics,Organic Search,4,650,2600,completed
+251,2025-02-26,Mansoura,Electronics,Organic Search,4,650,2600,completed
+252,2025-03-04,Alexandria,Electronics,Paid Ads,2,1200,2400,cancelled
+253,2025-02-14,Giza,Home,Organic Search,2,850,1700,returned
+254,2025-08-03,Cairo,Clothing,Paid Ads,5,2600,13000,returned
+255,2025-07-01,Alexandria,Accessories,Paid Ads,2,1900,3800,completed
+256,2025-03-25,Giza,Clothing,Referral,2,650,1300,completed
+257,2025-05-12,Tanta,Accessories,Paid Ads,3,350,1050,completed
+258,2025-12-23,Alexandria,Accessories,Referral,1,650,650,completed
+259,2025-07-12,Tanta,Home,Paid Ads,1,850,850,completed
+260,2025-02-12,Tanta,Home,Social Media,5,350,1750,completed
+261,2025-02-28,Alexandria,Electronics,Referral,1,850,850,completed
+262,2025-04-24,Mansoura,Clothing,Referral,4,1900,7600,completed
+263,2025-06-10,Tanta,Home,Paid Ads,3,1900,5700,completed
+264,2025-01-14,Alexandria,Clothing,Paid Ads,1,650,650,completed
+265,2025-02-27,Tanta,Electronics,Organic Search,3,1200,3600,completed
+266,2025-06-01,Alexandria,Electronics,Paid Ads,2,350,700,cancelled
+267,2025-08-03,Alexandria,Clothing,Referral,1,450,450,completed
+268,2025-04-01,Mansoura,Home,Social Media,4,250,1000,completed
+269,2025-02-15,Mansoura,Clothing,Social Media,1,250,250,completed
+270,2025-02-24,Cairo,Electronics,Social Media,2,1900,3800,cancelled
+271,2025-11-26,Mansoura,Electronics,Referral,5,850,4250,completed
+272,2025-06-27,Cairo,Electronics,Paid Ads,1,1200,1200,completed
+273,2025-02-10,Tanta,Electronics,Organic Search,5,350,1750,completed
+274,2025-09-17,Alexandria,Accessories,Paid Ads,2,350,700,completed
+275,2025-08-02,Giza,Home,Social Media,2,1900,3800,completed
+276,2025-02-26,Tanta,Clothing,Social Media,4,450,1800,cancelled
+277,2025-07-20,Tanta,Electronics,Referral,5,450,2250,returned
+278,2025-02-24,Mansoura,Clothing,Paid Ads,2,450,900,completed
+279,2025-02-16,Alexandria,Electronics,Referral,1,1900,1900,completed
+280,2025-05-18,Cairo,Home,Paid Ads,1,650,650,returned
+281,2025-10-17,Cairo,Home,Paid Ads,2,450,900,completed
+282,2025-04-12,Cairo,Home,Referral,5,850,4250,completed
+283,2025-08-04,Cairo,Accessories,Organic Search,4,1200,4800,completed
+284,2025-07-27,Giza,Electronics,Paid Ads,4,1200,4800,completed
+285,2025-04-17,Tanta,Home,Organic Search,3,2600,7800,completed
+286,2025-01-23,Tanta,Accessories,Social Media,5,350,1750,completed
+287,2025-05-07,Tanta,Electronics,Paid Ads,5,1200,6000,completed
+288,2025-01-28,Cairo,Clothing,Paid Ads,1,1200,1200,completed
+289,2025-07-03,Alexandria,Electronics,Organic Search,4,1200,4800,completed
+290,2025-06-02,Alexandria,Clothing,Social Media,2,850,1700,completed
+291,2025-08-02,Mansoura,Electronics,Social Media,3,250,750,cancelled
+292,2025-10-18,Cairo,Home,Referral,1,650,650,completed
+293,2025-02-15,Giza,Home,Referral,1,450,450,completed
+294,2025-06-24,Cairo,Electronics,Paid Ads,1,2600,2600,completed
+295,2025-12-04,Mansoura,Accessories,Organic Search,5,350,1750,cancelled
+296,2025-07-11,Tanta,Clothing,Organic Search,2,350,700,completed
+297,2025-07-02,Mansoura,Home,Social Media,3,2600,7800,completed
+298,2025-07-23,Mansoura,Home,Organic Search,4,2600,10400,completed
+299,2025-04-01,Alexandria,Clothing,Paid Ads,2,1200,2400,completed
+300,2025-08-19,Tanta,Home,Paid Ads,5,1900,9500,completed
+301,2025-12-13,Alexandria,Electronics,Referral,2,2600,5200,completed
+302,2025-12-14,Tanta,Electronics,Paid Ads,3,1200,3600,cancelled
+303,2025-04-23,Giza,Home,Organic Search,3,1900,5700,completed
+304,2025-07-16,Cairo,Clothing,Social Media,4,2600,10400,completed
+305,2025-09-28,Giza,Electronics,Paid Ads,1,850,850,completed
+306,2025-06-16,Giza,Home,Paid Ads,5,2600,13000,returned
+307,2025-03-07,Giza,Accessories,Organic Search,1,650,650,completed
+308,2025-06-23,Alexandria,Accessories,Organic Search,2,450,900,cancelled
+309,2025-02-08,Alexandria,Electronics,Social Media,3,850,2550,completed
+310,2025-05-09,Tanta,Clothing,Paid Ads,3,850,2550,completed
+311,2025-05-26,Alexandria,Clothing,Referral,3,250,750,completed
+312,2025-10-03,Tanta,Clothing,Paid Ads,5,450,2250,completed
+313,2025-11-26,Tanta,Clothing,Referral,4,1200,4800,completed
+314,2025-12-07,Tanta,Accessories,Paid Ads,3,1200,3600,returned
+315,2025-10-22,Cairo,Accessories,Organic Search,1,350,350,completed
+316,2025-04-12,Alexandria,Accessories,Social Media,5,350,1750,completed
+317,2025-01-14,Tanta,Clothing,Organic Search,1,450,450,completed
+318,2025-09-23,Alexandria,Home,Social Media,2,350,700,returned
+319,2025-03-16,Giza,Electronics,Referral,1,1900,1900,completed
+320,2025-03-10,Alexandria,Accessories,Social Media,5,350,1750,completed
+321,2025-07-26,Cairo,Home,Paid Ads,2,450,900,cancelled
+322,2025-01-04,Cairo,Accessories,Paid Ads,1,450,450,cancelled
+323,2025-01-05,Giza,Electronics,Organic Search,1,1900,1900,completed
+324,2025-04-14,Alexandria,Accessories,Social Media,2,1900,3800,completed
+325,2025-05-02,Tanta,Accessories,Paid Ads,1,650,650,completed
+326,2025-11-08,Mansoura,Clothing,Social Media,3,2600,7800,completed
+327,2025-08-08,Alexandria,Clothing,Social Media,3,2600,7800,completed
+328,2025-10-17,Tanta,Accessories,Organic Search,5,850,4250,completed
+329,2025-05-17,Alexandria,Clothing,Organic Search,2,350,700,completed
+330,2025-02-22,Tanta,Clothing,Referral,5,350,1750,completed
+331,2025-06-22,Alexandria,Electronics,Organic Search,4,450,1800,cancelled
+332,2025-07-26,Giza,Accessories,Social Media,4,450,1800,completed
+333,2025-08-27,Cairo,Electronics,Referral,3,350,1050,completed
+334,2025-03-05,Cairo,Clothing,Social Media,1,1900,1900,returned
+335,2025-06-05,Giza,Clothing,Paid Ads,2,1200,2400,cancelled
+336,2025-03-23,Giza,Home,Paid Ads,2,650,1300,completed
+337,2025-03-28,Cairo,Clothing,Paid Ads,1,850,850,completed
+338,2025-06-06,Tanta,Electronics,Paid Ads,1,850,850,completed
+339,2025-09-09,Cairo,Electronics,Social Media,5,2600,13000,completed
+340,2025-03-11,Tanta,Electronics,Paid Ads,3,450,1350,completed
+341,2025-06-20,Mansoura,Home,Organic Search,5,2600,13000,completed
+342,2025-08-25,Tanta,Home,Organic Search,4,250,1000,completed
+343,2025-07-24,Giza,Electronics,Organic Search,1,450,450,completed
+344,2025-08-01,Giza,Accessories,Organic Search,4,350,1400,completed
+345,2025-05-28,Tanta,Accessories,Referral,1,1200,1200,completed
+346,2025-06-05,Tanta,Home,Referral,3,450,1350,completed
+347,2025-06-16,Giza,Clothing,Referral,4,850,3400,completed
+348,2025-12-11,Giza,Home,Social Media,3,450,1350,completed
+349,2025-11-04,Cairo,Accessories,Referral,3,850,2550,completed
+350,2025-11-01,Mansoura,Home,Paid Ads,4,1900,7600,completed
+351,2025-01-03,Alexandria,Home,Referral,5,2600,13000,completed
+352,2025-05-18,Mansoura,Electronics,Organic Search,2,250,500,completed
+353,2025-10-27,Mansoura,Electronics,Paid Ads,1,650,650,completed
+354,2025-07-12,Tanta,Electronics,Organic Search,5,350,1750,completed
+355,2025-05-11,Tanta,Accessories,Social Media,4,450,1800,completed
+356,2025-11-05,Giza,Accessories,Paid Ads,4,850,3400,returned
+357,2025-08-10,Giza,Electronics,Organic Search,2,350,700,cancelled
+358,2025-11-20,Mansoura,Electronics,Social Media,3,2600,7800,completed
+359,2025-05-09,Giza,Accessories,Social Media,3,1900,5700,completed
+360,2025-07-25,Mansoura,Electronics,Paid Ads,1,1900,1900,cancelled
+361,2025-07-23,Alexandria,Electronics,Organic Search,4,650,2600,returned
+362,2025-04-21,Tanta,Electronics,Social Media,4,650,2600,completed
+363,2025-05-23,Giza,Electronics,Paid Ads,3,2600,7800,completed
+364,2025-06-02,Cairo,Accessories,Paid Ads,1,1200,1200,cancelled
+365,2025-02-09,Giza,Home,Organic Search,1,1200,1200,completed
+366,2025-08-25,Tanta,Clothing,Paid Ads,5,250,1250,completed
+367,2025-04-14,Alexandria,Home,Organic Search,5,1200,6000,completed
+368,2025-09-28,Tanta,Home,Social Media,3,850,2550,completed
+369,2025-02-04,Mansoura,Home,Referral,2,2600,5200,completed
+370,2025-10-18,Mansoura,Electronics,Organic Search,5,850,4250,completed
+371,2025-03-18,Alexandria,Accessories,Paid Ads,1,450,450,completed
+372,2025-08-02,Mansoura,Electronics,Referral,1,250,250,completed
+373,2025-09-03,Cairo,Accessories,Referral,3,250,750,completed
+374,2025-07-16,Tanta,Clothing,Referral,4,450,1800,returned
+375,2025-01-03,Tanta,Clothing,Social Media,2,1900,3800,completed
+376,2025-01-13,Cairo,Home,Referral,4,1900,7600,completed
+377,2025-12-16,Tanta,Accessories,Organic Search,2,650,1300,completed
+378,2025-12-17,Tanta,Home,Referral,1,650,650,returned
+379,2025-01-26,Cairo,Accessories,Referral,2,850,1700,completed
+380,2025-08-14,Alexandria,Clothing,Organic Search,4,650,2600,completed
+381,2025-08-24,Mansoura,Home,Referral,3,350,1050,completed
+382,2025-11-03,Giza,Accessories,Social Media,5,1900,9500,completed
+383,2025-07-07,Alexandria,Clothing,Organic Search,5,2600,13000,completed
+384,2025-01-27,Mansoura,Accessories,Referral,3,1900,5700,completed
+385,2025-04-28,Mansoura,Accessories,Social Media,5,1900,9500,completed
+386,2025-08-19,Cairo,Clothing,Referral,4,250,1000,completed
+387,2025-10-16,Alexandria,Accessories,Referral,3,1200,3600,completed
+388,2025-10-11,Tanta,Electronics,Paid Ads,1,450,450,completed
+389,2025-06-06,Mansoura,Home,Paid Ads,3,2600,7800,cancelled
+390,2025-02-20,Cairo,Home,Referral,4,450,1800,completed
+391,2025-05-12,Mansoura,Electronics,Organic Search,4,250,1000,completed
+392,2025-12-12,Giza,Home,Paid Ads,5,450,2250,completed
+393,2025-09-12,Mansoura,Home,Social Media,5,250,1250,completed
+394,2025-04-06,Cairo,Electronics,Organic Search,5,650,3250,completed
+395,2025-05-01,Mansoura,Electronics,Organic Search,1,650,650,completed
+396,2025-04-20,Alexandria,Accessories,Paid Ads,3,1200,3600,returned
+397,2025-12-11,Cairo,Home,Paid Ads,2,2600,5200,completed
+398,2025-09-08,Tanta,Accessories,Social Media,3,650,1950,completed
+399,2025-07-06,Giza,Clothing,Referral,3,2600,7800,completed
+400,2025-06-28,Giza,Home,Paid Ads,3,650,1950,completed
+401,2025-12-24,Cairo,Electronics,Organic Search,4,250,1000,completed
+402,2025-08-20,Tanta,Home,Organic Search,5,1200,6000,completed
+403,2025-12-20,Giza,Accessories,Organic Search,4,250,1000,completed
+404,2025-08-25,Alexandria,Clothing,Organic Search,3,250,750,completed
+405,2025-04-10,Alexandria,Accessories,Organic Search,3,250,750,completed
+406,2025-10-06,Alexandria,Clothing,Organic Search,3,1900,5700,completed
+407,2025-11-17,Giza,Accessories,Referral,1,2600,2600,completed
+408,2025-07-27,Mansoura,Accessories,Paid Ads,5,650,3250,completed
+409,2025-05-01,Alexandria,Accessories,Referral,5,650,3250,completed
+410,2025-05-17,Giza,Accessories,Referral,1,2600,2600,completed
+411,2025-07-17,Tanta,Clothing,Social Media,4,350,1400,completed
+412,2025-09-14,Tanta,Accessories,Organic Search,2,1200,2400,returned
+413,2025-02-18,Cairo,Electronics,Social Media,5,1200,6000,completed
+414,2025-09-14,Tanta,Electronics,Social Media,1,2600,2600,completed
+415,2025-04-15,Tanta,Accessories,Organic Search,2,2600,5200,completed
+416,2025-04-25,Alexandria,Accessories,Social Media,2,350,700,cancelled
+417,2025-11-06,Alexandria,Clothing,Social Media,5,350,1750,completed
+418,2025-01-24,Giza,Clothing,Organic Search,1,1200,1200,completed
+419,2025-05-27,Giza,Accessories,Organic Search,4,1200,4800,completed
+420,2025-07-27,Alexandria,Home,Social Media,1,850,850,completed
+421,2025-10-09,Alexandria,Clothing,Organic Search,1,650,650,completed
+422,2025-07-10,Cairo,Home,Paid Ads,2,650,1300,completed
+423,2025-08-19,Mansoura,Electronics,Paid Ads,1,1900,1900,completed
+424,2025-10-12,Tanta,Accessories,Referral,1,1200,1200,completed
+425,2025-04-17,Cairo,Home,Social Media,5,450,2250,completed
+426,2025-02-18,Cairo,Clothing,Social Media,4,250,1000,completed
+427,2025-10-13,Giza,Accessories,Organic Search,2,1900,3800,completed
+428,2025-05-06,Tanta,Electronics,Organic Search,1,450,450,completed
+429,2025-02-23,Cairo,Clothing,Paid Ads,4,450,1800,completed
+430,2025-04-10,Giza,Clothing,Referral,1,350,350,completed
+431,2025-11-17,Giza,Electronics,Social Media,2,350,700,returned
+432,2025-03-13,Tanta,Electronics,Referral,4,1900,7600,completed
+433,2025-10-01,Giza,Accessories,Organic Search,3,250,750,completed
+434,2025-05-18,Alexandria,Clothing,Social Media,5,1900,9500,completed
+435,2025-11-02,Alexandria,Accessories,Paid Ads,3,350,1050,completed
+436,2025-11-13,Alexandria,Accessories,Organic Search,1,450,450,completed
+437,2025-11-12,Tanta,Accessories,Social Media,1,1900,1900,returned
+438,2025-05-13,Mansoura,Electronics,Social Media,3,450,1350,completed
+439,2025-11-19,Alexandria,Clothing,Paid Ads,1,1900,1900,cancelled
+440,2025-05-15,Cairo,Accessories,Social Media,4,650,2600,completed
+441,2025-09-28,Alexandria,Clothing,Referral,5,650,3250,completed
+442,2025-02-01,Cairo,Accessories,Paid Ads,3,250,750,completed
+443,2025-02-14,Giza,Home,Social Media,5,250,1250,completed
+444,2025-05-11,Tanta,Home,Social Media,4,1900,7600,completed
+445,2025-11-07,Giza,Clothing,Organic Search,4,450,1800,completed
+446,2025-10-22,Alexandria,Electronics,Paid Ads,2,650,1300,completed
+447,2025-08-22,Alexandria,Accessories,Referral,1,450,450,returned
+448,2025-01-21,Cairo,Home,Social Media,3,350,1050,completed
+449,2025-02-06,Tanta,Accessories,Social Media,5,450,2250,completed
+450,2025-06-22,Alexandria,Home,Social Media,3,350,1050,returned
+451,2025-05-15,Alexandria,Home,Referral,5,1200,6000,completed
+452,2025-05-16,Tanta,Clothing,Paid Ads,4,2600,10400,completed
+453,2025-10-12,Cairo,Accessories,Organic Search,2,1200,2400,completed
+454,2025-05-13,Mansoura,Home,Referral,5,1900,9500,returned
+455,2025-01-23,Mansoura,Electronics,Social Media,1,350,350,completed
+456,2025-02-20,Giza,Clothing,Referral,5,1900,9500,completed
+457,2025-07-07,Cairo,Electronics,Social Media,3,1200,3600,completed
+458,2025-03-04,Cairo,Clothing,Social Media,2,450,900,completed
+459,2025-05-02,Alexandria,Clothing,Referral,2,250,500,completed
+460,2025-11-11,Mansoura,Home,Social Media,1,250,250,returned
+461,2025-08-16,Alexandria,Accessories,Referral,5,450,2250,completed
+462,2025-03-15,Tanta,Clothing,Paid Ads,1,1900,1900,completed
+463,2025-09-08,Giza,Accessories,Social Media,4,250,1000,completed
+464,2025-03-20,Alexandria,Clothing,Paid Ads,5,1200,6000,completed
+465,2025-02-04,Tanta,Electronics,Social Media,2,2600,5200,completed
+466,2025-11-16,Alexandria,Clothing,Paid Ads,4,2600,10400,completed
+467,2025-03-03,Tanta,Home,Referral,2,650,1300,completed
+468,2025-06-04,Alexandria,Accessories,Referral,3,1900,5700,completed
+469,2025-05-13,Cairo,Accessories,Referral,3,450,1350,completed
+470,2025-05-19,Mansoura,Electronics,Social Media,1,450,450,cancelled
+471,2025-09-09,Mansoura,Clothing,Organic Search,5,350,1750,returned
+472,2025-04-26,Alexandria,Home,Paid Ads,3,2600,7800,completed
+473,2025-04-21,Tanta,Accessories,Referral,4,250,1000,completed
+474,2025-02-03,Tanta,Electronics,Social Media,1,1900,1900,completed
+475,2025-06-11,Cairo,Home,Referral,5,2600,13000,completed
+476,2025-10-25,Tanta,Electronics,Social Media,2,1200,2400,completed
+477,2025-09-21,Cairo,Electronics,Social Media,1,450,450,completed
+478,2025-06-19,Alexandria,Accessories,Organic Search,2,850,1700,completed
+479,2025-03-25,Alexandria,Electronics,Social Media,1,2600,2600,completed
+480,2025-02-27,Giza,Electronics,Social Media,4,2600,10400,cancelled
+481,2025-08-05,Mansoura,Clothing,Paid Ads,3,350,1050,completed
+482,2025-02-28,Alexandria,Home,Organic Search,5,1200,6000,completed
+483,2025-04-03,Alexandria,Accessories,Social Media,4,350,1400,completed
+484,2025-07-15,Cairo,Accessories,Organic Search,5,650,3250,completed
+485,2025-10-07,Tanta,Home,Organic Search,1,450,450,cancelled
+486,2025-11-06,Mansoura,Home,Social Media,2,1900,3800,completed
+487,2025-11-04,Alexandria,Clothing,Referral,4,650,2600,completed
+488,2025-08-27,Giza,Accessories,Organic Search,1,250,250,completed
+489,2025-07-15,Cairo,Home,Paid Ads,5,1200,6000,completed
+490,2025-10-23,Giza,Clothing,Organic Search,5,1200,6000,completed
+491,2025-01-18,Cairo,Home,Social Media,5,1200,6000,returned
+492,2025-06-08,Alexandria,Electronics,Paid Ads,1,350,350,completed
+493,2025-06-06,Giza,Electronics,Paid Ads,1,1900,1900,completed
+494,2025-12-27,Cairo,Clothing,Social Media,2,450,900,completed
+495,2025-12-27,Alexandria,Electronics,Referral,4,350,1400,completed
+496,2025-02-26,Alexandria,Electronics,Paid Ads,1,2600,2600,completed
+497,2025-03-28,Alexandria,Clothing,Social Media,5,350,1750,completed
+498,2025-02-27,Tanta,Accessories,Social Media,3,2600,7800,completed
+499,2025-01-10,Alexandria,Accessories,Referral,4,250,1000,completed
+500,2025-02-14,Giza,Home,Paid Ads,1,1900,1900,completed
